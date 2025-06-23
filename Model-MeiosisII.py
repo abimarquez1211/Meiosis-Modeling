@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import numpy as np
 import bokeh.io
 import bokeh.plotting
@@ -86,8 +80,6 @@ left_column = pn.Column(
 pn.Row(left_column, pn.Spacer(width=20), widgets)
 
 
-
-# In[11]:
 
 
 #--------Rate constants---------
